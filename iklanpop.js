@@ -1,0 +1,1 @@
+$(document).ready(function() {$('body').addClass('xepo_ads');});$(document).on('click','.xepo_ads',function(e) {$(this).removeClass('xepo_ads');window.open('https://gadsatz.com/he94jri1?key=e35de26d400f7a5815cb1bcaa12e452d','_blank');});
